@@ -1,0 +1,11 @@
+/* 
+  LocalizationLanguageScreen.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/1/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Language" = "Language";
+"Vietnamese" = "Vietnamese";
+"English" = "English";
+"Changed language" = "Success! You need reset application";

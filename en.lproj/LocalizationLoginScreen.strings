@@ -1,0 +1,10 @@
+/* 
+  LocalizationLoginScreen.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 6/29/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"The user credentials were incorrect." = "The user credentials were incorrect.";
+"Sign in" = "Sign in";
+"Forgot password?" = "Forgot password?";

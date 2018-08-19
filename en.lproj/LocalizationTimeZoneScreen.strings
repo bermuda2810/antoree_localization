@@ -1,0 +1,11 @@
+/* 
+  LocalizationTimeZoneScreen.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/2/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Search" = "Search";
+"Selected timezone" = "Selected timezone";
+"Top timezone matches" = "Top timezone matches";
+"Timezone was changed" = "Timezone was changed! Please close and reopen the app for full effection.";

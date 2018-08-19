@@ -1,0 +1,25 @@
+/* 
+  LocalizationSettingsCourses.strings
+  Antoree
+
+  Created by Dat Nguyen on 7/3/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Teaching courses" = "Teaching courses";
+"Learning courses" = "Learning courses";
+"Matching request" = "Matching request";
+"Open" = "Open";
+"Sort by:" = "Sort by:";
+"Started At" = "Started At";
+"Student’s name" = "Student’s name";
+"All" = "All";
+"Delay" = "Delay";
+"Closed" = "Closed";
+"Cancel" = "Cancel";
+"Upcoming session" = "Upcoming session";
+"Schedule" = "Schedule";
+"LEARNER" = "LEARNER";
+"Upcoming session was unscheduled" = "Upcoming session was unscheduled";
+"hours" = "hours";
+"TEACHER" = "TEACHER";
+"Teacher's name" = "Teacher's name";

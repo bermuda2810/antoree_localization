@@ -1,0 +1,10 @@
+/* 
+  LocalizationChangeNation.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/5/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Currrent Nation" = "Vị trí hiện tại";
+"Search nation" = "Tìm kiếm quốc gia";
+"Top nation matches" = "Lọc";

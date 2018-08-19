@@ -1,0 +1,25 @@
+/*
+ LocalizationSettingsCourses.strings
+ Antoree
+ 
+ Created by Dat Nguyen on 7/3/18.
+ Copyright © 2018 Mobile Team. All rights reserved.
+ */
+"Teaching courses" = "Khóa đang dạy";
+"Learning courses" = "Khóa đang học";
+"Matching request" = "Các yêu cầu";
+"Open" = "Đang mở";
+"Sort by:" = "Sắp xếp theo:";
+"Started At" = "Thời gian bắt đầu";
+"Student’s name" = "Tên học viên";
+"All" = "Tất cả";
+"Delay" = "Bị hoãn";
+"Closed" = "Đã đóng";
+"Cancel" = "Hủy";
+"Upcoming session" = "Upcoming session";
+"Schedule" = "Schedule";
+"LEARNER" = "LEARNER";
+"Upcoming session was unscheduled" = "Upcoming session was unscheduled";
+"hours" = "giờ";
+"TEACHER" = "TEACHER";
+"Teacher's name" = "Tên giáo viên";

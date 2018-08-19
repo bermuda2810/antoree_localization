@@ -1,0 +1,13 @@
+/* 
+  LocalizationCurriculum.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/17/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"attachments" = "Đính kèm";
+"links" = "Đường link";
+"hour" = "Giờ học";
+"hours" = "Giờ học";
+"Unit" = "Unit";
+"Lesson" = "Lesson";

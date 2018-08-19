@@ -1,0 +1,10 @@
+/* 
+  LocalizationNetworkError.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 6/29/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Server Error" = "Lỗi Server. Thử lại sau";
+"No internet connection" = "Không có kết nối internet";
+"Request timeout" = "Không lấy được dữ liệu!";

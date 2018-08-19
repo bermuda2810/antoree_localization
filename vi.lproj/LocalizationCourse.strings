@@ -1,0 +1,25 @@
+/* 
+  LocalizationCourse.strings
+  Antoree
+
+  Created by Dat Nguyen on 7/9/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Course" = "Course";
+"Curriculum" = "Curriculum";
+"Sessions" = "Sessions";
+"Ratings & Reviews" = "Đánh giá & Nhận xét";
+"Menu" = "Menu";
+"Close" = "Đóng";
+"Course duration" = "Course duration";
+"Today" = "Today";
+"Realistic progress" = "Realistic progress";
+"Hours passed" = "Hours passed";
+"Hours left" = "Hours left";
+"Hours makeup" = "Hours makeup";
+"Hours penalty" = "Hours penalty";
+"Hours bonus" = "Hours bonus";
+"Course Agreement" = "Course Agreement";
+"Course Completion of Agreement." = "Course Completion of Agreement.\nThe agreement must be signed by both the teacher an the student. Please see details below:";
+"Tap to Download" = "Tap to Download";
+"CMD" = "CMD";

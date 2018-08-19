@@ -1,0 +1,11 @@
+/* 
+  LocalizationSettingsScreen.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/1/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Settings" = "Cài đặt";
+"Language" = "Ngôn ngữ";
+"Timezone" = "Múi giờ";
+"Logout" = "Đăng xuất";

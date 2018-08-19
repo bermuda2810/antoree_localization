@@ -1,0 +1,11 @@
+/* 
+  LocalizationTimeZoneScreen.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/2/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Search" = "Tìm kiếm";
+"Selected timezone" = "Múi giờ đã chọn";
+"Top timezone matches" = "Lọc";
+"Timezone was changed" = "Múi giờ đã thay đổi! Bạn hãy khởi động lại ứng dụng.";

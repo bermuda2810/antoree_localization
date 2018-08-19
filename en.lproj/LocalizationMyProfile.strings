@@ -1,0 +1,21 @@
+/* 
+  LocalizationMyProfile.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 6/30/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Account" = "ACCOUNT";
+"Personal information" = "PERSONAL INFORMATION";
+"Contact information" = "CONTACT INFORMATION";
+"Male"="Male";
+"Female"="Female";
+"Other" = "Other";
+"Gallery" = "From Gallery";
+"Camera" = "From Camera";
+"Your avatar too small" = "Your avatar too small";
+"Email is not valid" =  "Email is not valid";
+"Display name is not valid" = "Display name is not valid";
+"Phone number is not valid" = "Phone number is not valid";
+"Skype is not valid" = "Skype is not valid";
+"Update failed" = "Update failed";

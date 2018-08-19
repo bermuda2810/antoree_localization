@@ -1,0 +1,21 @@
+/* 
+  LocalizationMyProfile.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 6/30/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Account" = "TÀI KHOẢN";
+"Personal information" = "THÔNG TIN CÁ NHÂN";
+"Contact information" = "THÔNG TIN LIÊN LẠC";
+"Male"="Nam";
+"Female"="Nữ";
+"Other" = "Khác";
+"Gallery" = "Chọn ảnh có sẵn";
+"Camera" = "Chụp ảnh mới";
+"Your avatar too small" = "Ảnh đại diện của bạn quá nhỏ!";
+"Email is not valid" =  "Email không hợp lệ!";
+"Display name is not valid" = "Tên hiển thị không hợp lệ";
+"Phone number is not valid" = "Số điện thoại không hợp lệ";
+"Skype is not valid" = "Skype không hợp lệ";
+"Update failed" = "Cập nhật thất bại";

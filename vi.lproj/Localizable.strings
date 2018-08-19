@@ -1,0 +1,12 @@
+/*
+ Localizable.strings
+ Antoree
+ 
+ Created by Dat Nguyen on 7/8/18.
+ Copyright © 2018 Mobile Team. All rights reserved.
+ */
+"Pull to refresh" = "Kéo để làm mới";
+"Release to refresh" = "Thả để làm mới";
+"Loading..." = "Đang tải...";
+"No more data" = "Không còn dữ liệu";
+"hrs" = "giờ";

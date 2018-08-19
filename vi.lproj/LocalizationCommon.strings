@@ -1,0 +1,23 @@
+/* 
+  LocalizationCommon.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 7/1/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Succeed" = "Thành công";
+"Done" = "Xong";
+"Cancel" = "Hủy";
+"Failed" = "Thất bại";
+"Loading" = "Đang tải";
+"Alert" = "Thông báo";
+"Retry" = "Thử lại";
+"Save" = "Lưu";
+"Next" = "Tiếp";
+"Back" = "Quay lại";
+"average score" = "average score";
+"Send" = "Gửi";
+"Okay" = "Okay";
+"Not empty" = "Không được để trống";
+"Close" = "Đóng";
+"Confirm" = "Xác nhận";

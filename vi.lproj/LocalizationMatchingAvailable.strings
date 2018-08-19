@@ -1,0 +1,17 @@
+/*
+ LocalizationMatchingAvailable.strings
+ Antoree
+ 
+ Created by Dat Nguyen on 7/19/18.
+ Copyright © 2018 Mobile Team. All rights reserved.
+ */
+"Work" = "Work";
+"Kid" = "Kid";
+"View" = "View";
+"All" = "All";
+"Waiting" = "Waiting";
+"Approved" = "Approved";
+"Rejected" = "Rejected";
+"Available" = "Available";
+"Applied" = "Applied";
+"Placeholder ApplyBox" = "Write something about the reason why we should choose you for this request ...";

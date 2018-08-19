@@ -1,0 +1,60 @@
+/* 
+  LocalizationReviewsFeedbacks.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 8/2/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Content of curriculum" = "Content of curriculum";
+"Teaching methods" = "Teaching methods";
+"LEARNER" = "LEARNER";
+"TEACHER" = "TEACHER";
+"Attitude" = "Attitude";
+"Satisfaction" = "Satisfaction";
+"Wrote at" = "Wrote at %@ after %d %@";
+"Add a Reply" = "Add a Reply";
+"Review(%d)" = "Review(%d)";
+"Reviews(%d)" = "Reviews(%d)";
+"Feedback(%d)" = "Feedback(%d)";
+"Feedbacks(%d)" = "Feedbacks(%d)";
+"Reviews" = "Reviews";
+"Feedbacks" = "Feedbacks";
+"Post a Feedback" = "Post a Feedback";
+"Post a Review" = "Post a Review";
+"How was your experience?" = "How was your experience?";
+"Teribble" = "Teribble";
+"Bad" = "Bad";
+"Okay" = "Okay";
+"Good" = "Good";
+"Excellent" = "Excellent";
+"Write your feedback" = "Write your feedback";
+"Write your review" = "Write your review";
+"(required)" = "(required)";
+"Share with Antoree" = "  Share with Antoree";
+"Share with Teacher" = "  Share with Teacher";
+"Share with Student" = "  Share with Student";
+"Submit" = "Submit";
+"hour" = "hour";
+"hours" = "hours";
+"curriculum_content_poor" = "curriculum_content_poor";
+"curriculum_content_fair" = "curriculum_content_fair";
+"curriculum_content_good" = "curriculum_content_good";
+"curriculum_content_very_good" = "curriculum_content_very_good";
+"curriculum_content_excellent" = "curriculum_content_excellent";
+"teaching_method_poor" = "teaching_method_poor";
+"teaching_method_fair" = "teaching_method_fair";
+"teaching_method_good" = "teaching_method_good";
+"teaching_method_very_good" = "teaching_method_very_good";
+"teaching_method_excellent" = "teaching_method_excellent";
+"attitude_poor" = "attitude_poor";
+"attitude_fair" = "attitude_fair";
+"attitude_good" = "attitude_good";
+"attitude_very_good" = "attitude_very_good";
+"attitude_excellent" = "attitude_excellent";
+"satisfaction_poor" = "satisfaction_poor";
+"satisfaction_fair" = "satisfaction_fair";
+"satisfaction_good" = "satisfaction_good";
+"satisfaction_very_good" = "satisfaction_very_good";
+"satisfaction_excellent" = "satisfaction_excellent";
+"This is the reason for not being able to post a review" = "This is the reason for not being able to post a review";
+"Cannot post a review!" = "Cannot post a review!";
