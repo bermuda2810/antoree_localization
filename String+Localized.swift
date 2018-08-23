@@ -40,6 +40,8 @@ enum AccountTab : String, Localizable {
     case settings = "Settings"
     case support = "Support"
     case about = "About"
+    case recentCourses = "Recent Courses"
+    case recentSessions = "Recent Sessions"
 }
 
 enum Common : String, Localizable {
@@ -289,6 +291,7 @@ enum SessionDetailScreen: String, Localizable {
     case tapToDisagree = "TAP TO DISAGREE"
     case youDisagree = "YOU DISAGREED!"
     case areYouSureDelete = "Are sure delete"
+    case within30Minutes = "within 30 minutes"
 }
 
 enum SessionScreen : String, Localizable {
