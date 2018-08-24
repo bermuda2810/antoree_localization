@@ -5,21 +5,21 @@
   Created by Dat Nguyen on 7/9/18.
   Copyright © 2018 Mobile Team. All rights reserved.
 */
-"Course" = "Course";
-"Curriculum" = "Curriculum";
-"Sessions" = "Sessions";
+"Course" = "Khóa học";
+"Curriculum" = "Giáo trình";
+"Sessions" = "Buổi học";
 "Ratings & Reviews" = "Đánh giá & Nhận xét";
-"Menu" = "Menu";
+"Menu" = "Trình đơn";
 "Close" = "Đóng";
-"Course duration" = "Course duration";
-"Today" = "Today";
-"Realistic progress" = "Realistic progress";
-"Hours passed" = "Hours passed";
-"Hours left" = "Hours left";
-"Hours makeup" = "Hours makeup";
-"Hours penalty" = "Hours penalty";
-"Hours bonus" = "Hours bonus";
-"Course Agreement" = "Course Agreement";
-"Course Completion of Agreement." = "Course Completion of Agreement.\nThe agreement must be signed by both the teacher an the student. Please see details below:";
-"Tap to Download" = "Tap to Download";
+"Course duration" = "Thời lượng khóa học";
+"Today" = "Hôm nay";
+"Realistic progress" = "Tiến độ thực tế";
+"Hours passed" = "Số giờ đã học";
+"Hours left" = "Sô giờ còn lại";
+"Hours makeup" = "Giờ học bù";
+"Hours penalty" = "Giờ phạt";
+"Hours bonus" = "Giờ thưởng";
+"Course Agreement" = "Điều khoản khóa học";
+"Course Completion of Agreement." = "Đây là bản cam kết khóa học được thực hiện từ hai phía giáo viên và học viên. Vui lòng xem nội dung chi tiết dưới đây:";
+"Tap to Download" = "Nhấp để tải xuống";
 "CMD" = "CMD";

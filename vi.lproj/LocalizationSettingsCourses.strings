@@ -16,10 +16,10 @@
 "Delay" = "Bị hoãn";
 "Closed" = "Đã đóng";
 "Cancel" = "Hủy";
-"Upcoming session" = "Upcoming session";
-"Schedule" = "Schedule";
-"LEARNER" = "LEARNER";
-"Upcoming session was unscheduled" = "Upcoming session was unscheduled";
+"Upcoming session" = "Buổi học tiếp theo";
+"Schedule" = "Lịch học";
+"LEARNER" = "HỌC VIÊN";
+"Upcoming session was unscheduled" = "Buổi học tiếp theo chưa được lên lịch học";
 "hours" = "giờ";
-"TEACHER" = "TEACHER";
+"TEACHER" = "GIÁO VIÊN";
 "Teacher's name" = "Tên giáo viên";

@@ -5,16 +5,16 @@
  Created by Dat Nguyen on 7/20/18.
  Copyright © 2018 Mobile Team. All rights reserved.
  */
-"Request at" = "Requested at";
-"Age:" = "Age:";
-"Level:" = "Level:";
-"See more" = "See more";
-"Apply" = "Apply";
-"You cannot apply this request" = "You cannot apply this request";
-"Course time:" = "Course time:";
-"Schedule time:" = "Schedule time:";
-"Available times:" = "Available times:";
-"Requests" = "Requests";
-"Applied at" = "Applied at";
-"Approved at" = "Approved at";
-"Rejected at" = "Rejected at";
+"Request at" = "Yêu cầu lúc";
+"Age:" = "Tuổi:";
+"Level:" = "Cấp độ:";
+"See more" = "Xem thêm";
+"Apply" = "Chấp nhận yêu cầu này";
+"You cannot apply this request" = "Bạn không thể chấp nhận yêu cầu này";
+"Course time:" = "Thời gian khóa học:";
+"Schedule time:" = "Lịch học:";
+"Available times:" = "Thời gian rảnh:";
+"Requests" = "Yêu cầu";
+"Applied at" = "Chấp nhận lúc";
+"Approved at" = "Phê duyệt lúc";
+"Rejected at" = "Từ chối lúc";

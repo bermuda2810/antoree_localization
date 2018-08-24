@@ -7,11 +7,11 @@
  */
 "Work" = "Work";
 "Kid" = "Kid";
-"View" = "View";
-"All" = "All";
-"Waiting" = "Waiting";
-"Approved" = "Approved";
-"Rejected" = "Rejected";
-"Available" = "Available";
-"Applied" = "Applied";
-"Placeholder ApplyBox" = "Write something about the reason why we should choose you for this request ...";
+"View" = "Xem";
+"All" = "Tất cả";
+"Waiting" = "Đang chờ";
+"Approved" = "Đã phê duyệt";
+"Rejected" = "Từ chối";
+"Available" = "Hiện có";
+"Applied" = "Đã chấp nhận";
+"Placeholder ApplyBox" = "Viết một vài điểu gì đó về lý do tại sao chúng tôi nên chọn bạn cho yêu cầu này ...";
