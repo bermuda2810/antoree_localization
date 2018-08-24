@@ -6,11 +6,11 @@
   Copyright © 2018 Mobile Team. All rights reserved.
 */
 "My Profile" = "Hồ sơ của tôi";
-"Teaching courses" = "Khóa đang dạy";
-"Learning courses" = "Khóa đang học";
+"Teaching courses" = "Khóa dạy";
+"Learning courses" = "Khóa học";
 "Matching request" = "Các yêu cầu";
-"Settings" = "Cài đặt";
+"Settings" = "Thiết lập tài khoản";
 "Support" = "Hỗ trợ";
 "About" = "Về chúng tôi";
-"Recent Courses" = "Recent Courses";
-"Recent Sessions" = "Recent Sessions";
+"Recent Courses" = "Khóa học gần đây";
+"Recent Sessions" = "Buổi học gần đây";
