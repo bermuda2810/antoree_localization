@@ -1,0 +1,17 @@
+/* 
+  LocalizationTitleNavigation.strings
+  Antoree
+
+  Created by Bui Quoc Viet on 8/24/18.
+  Copyright © 2018 Mobile Team. All rights reserved.
+*/
+"Notifications" = "Notifications";
+"Account" = "Account";
+"My Profile" = "My Profile";
+"Change Phone Code" = "Change Phone Code";
+"Change Nation" = "Change Nation";
+"Timezone" = "Timezone";
+"Language" = "Language";
+"Settings" = "Settings";
+"Support" = "Support";
+"About" = "About";

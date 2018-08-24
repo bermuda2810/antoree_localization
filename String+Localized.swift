@@ -306,6 +306,22 @@ enum SessionScreen : String, Localizable {
     case topStudent = "top_student"
 }
 
+enum TitleNavigation : String, Localizable {
+    var tableName: String {
+        return "LocalizationTitleNavigation"
+    }
+    case notifications = "Notifications"
+    case account = "Account"
+    case myProfile = "My Profile"
+    case changePhoneCode = "Change Phone Code"
+    case changeNation = "Change Nation"
+    case timezone = "Timezone"
+    case language = "Language"
+    case settings = "Settings"
+    case support = "Support"
+    case about = "About"
+}
+
 enum ReviewsFeedbacksScreen : String, Localizable  {
     var tableName: String {
         return "LocalizationReviewsFeedbacks"
