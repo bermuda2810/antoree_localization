@@ -7,11 +7,11 @@
  */
 "Show not-happened sessions" = "Hiển thị buổi học không diễn ra";
 "Add a Session" = "Thêm buổi học";
-"upcoming" = "kế tiếp";
-"normal" = "thường";
-"penalty" = "phạt";
-"makeup" = "bù";
-"bonus" = "thưởng";
+"upcoming" = "Buổi học kế tiếp";
+"normal" = "Buổi học thường";
+"penalty" = "Buổi học phạt";
+"makeup" = "Buổi học bù";
+"bonus" = "Buổi học thưởng";
 "not_happened" = "không diễn ra";
 "compensation" = "bù";
 "unidentified" = "không xác định";
@@ -92,7 +92,7 @@
 "TAP TO CONFIRM THAT YOU READ IT!" = "Nhấp để xác nhận bạn đã đọc!";
 "READ IT!" = "Đọc!";
 "Cancel editing" = "Hủy";
-"Add an attachment" = "Thêm file đính kèm";
+"Add an attachment" = "Thêm tệp đính kèm";
 "Add a reference" = "Thêm link tham khảo";
 "URL must not be empty" = "Bạn không được bỏ trống URL";
 "STUDENT DISAGREED!" = "Học viên không đồng ý!";
