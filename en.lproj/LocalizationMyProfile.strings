@@ -1,4 +1,4 @@
-/* 
+/*
   LocalizationMyProfile.strings
   Antoree
 
@@ -14,8 +14,8 @@
 "Gallery" = "From Gallery";
 "Camera" = "From Camera";
 "Your avatar too small" = "Your avatar too small";
-"Email is not valid" =  "Email is not valid";
-"Display name is not valid" = "Display name is not valid";
-"Phone number is not valid" = "Phone number is not valid";
-"Skype is not valid" = "Skype is not valid";
+"Email is not valid" =  "Email is invalid";
+"Display name is not valid" = "Display name is invalid";
+"Phone number is not valid" = "Phone number is invalid";
+"Skype is not valid" = "Skype is invalid";
 "Update failed" = "Update failed";
