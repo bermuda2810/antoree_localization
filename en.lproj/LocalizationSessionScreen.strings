@@ -28,8 +28,8 @@
 "Delete this session" = "Delete this session";
 "without any notice" = "(without any notice)";
 "Confirm to delete this session" = "Confirm to delete this session";
-"top_student" = "Changing the date/time means that you are updating this session to another date or time. Please notice that your teacher and CMD of this course will be notified about the change.";
-"top_teacher" = "Changing the date/time means that you are updating this session to another date or time. Please notice that your learner and CMD of this course will be notified about the change.";
+"top_student" = "Changing the date/time means that you are updating this session to another date or time. Both your teacher and CMD team of the course will be informed about this change.";
+"top_teacher" = "Changing the date/time means that you are updating this session to another date or time. Both your leaner and CMD team of the course will be informed about this change.";
 "Session date" = "Session date";
 "Start time" = "Start time";
 "Duration" = "Duration";
@@ -43,8 +43,8 @@
 "Tap here to schedule this session" = "Tap here to schedule this session";
 "Not able to learn this session" = "Not able to learn this session";
 "Ping teacher" = "Ping teacher";
-"place_holder_teacher_absent" = "Please fill out of reason why you are not able to teach this session...";
-"place_holder_student_absent" = "Please fill out of reason why you are not able to learn this session...";
+"place_holder_teacher_absent" = "Please give the reason why you cannot take this session...";
+"place_holder_student_absent" = "Please give the reason why you cannot take this session...";
 "Save" = "Save";
 "Poor" = "Poor";
 "Fair" = "Fair";
